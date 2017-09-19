@@ -10,6 +10,8 @@
 #include <math.h>
 #include <ctype.h>
 
+printf("this is a test comment");
+
 //FUNCTION DEFINITIONS
 void displayMAIN();
 void displayMenu();
